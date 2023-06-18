@@ -1,0 +1,4 @@
+Datetime: 2023-06-18 18:40:47.483655 --- Function: hello_world --- Arguments:  ()_{} --- Result: Hello World
+Datetime: 2023-06-18 18:40:47.485611 --- Function: summator --- Arguments:  (2, 2)_{} --- Result: 4
+Datetime: 2023-06-18 18:40:47.485611 --- Function: div --- Arguments:  (6, 2)_{} --- Result: 3.0
+Datetime: 2023-06-18 18:40:47.485611 --- Function: summator --- Arguments:  (4.3,)_{'b': 2.2} --- Result: 6.5
